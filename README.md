@@ -26,13 +26,13 @@ A structured collection of my solutions to problems from platforms like Codeforc
 DSA-Problem-Solving/
 │
 ├── Codeforces/
-│   ├── Easy/
+│   ├── Easy(800-1100)/
 │   │   ├── cpp/
 │   │   └── python/
-│   ├── Medium/
+│   ├── Medium(1200-1600)/
 │   │   ├── cpp/
 │   │   └── python/
-│   └── Hard/
+│   └── Hard(1700++)/
 │       ├── cpp/
 │       └── python/
 │
