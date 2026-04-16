@@ -36,7 +36,7 @@ DSA-Problem-Solving/
 │       ├── cpp/
 │       └── python/
 │
-├── Codechef/
+├── CodeChef/
 │   ├── Easy/
 │   │   ├── cpp/
 │   │   └── python/
