@@ -23,27 +23,27 @@ A structured collection of my solutions to problems from platforms like Codeforc
 ## 📂 Repository Structure
 
 ```
-dsa-problem-solving/
+DSA-Problem-Solving/
 │
-├── codeforces/
-│   ├── easy/
+├── Codeforces/
+│   ├── Easy/
 │   │   ├── cpp/
 │   │   └── python/
-│   ├── medium/
+│   ├── Medium/
 │   │   ├── cpp/
 │   │   └── python/
-│   └── hard/
+│   └── Hard/
 │       ├── cpp/
 │       └── python/
 │
-├── codechef/
-│   ├── easy/
+├── Codechef/
+│   ├── Easy/
 │   │   ├── cpp/
 │   │   └── python/
-│   ├── medium/
+│   ├── Medium/
 │   │   ├── cpp/
 │   │   └── python/
-│   └── hard/
+│   └── Hard/
 │       ├── cpp/
 │       └── python/
 │
