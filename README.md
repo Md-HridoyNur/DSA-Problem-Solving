@@ -63,7 +63,7 @@ DSA-Problem-Solving/
 
 | Platform   | Easy | Medium | Hard |
 |------------|------|--------|------|
-| Codeforces | 4    | 0      | 0    |
+| Codeforces | 7    | 0      | 0    |
 | CodeChef   | 0    | 0      | 0    |
 
 > This table will be updated regularly.
